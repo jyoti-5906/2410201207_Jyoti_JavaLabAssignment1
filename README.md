@@ -140,4 +140,4 @@ Jyoti
 BCA – Semester 1
 K.R. Mangalam University
 
-<p align="center">⭐ If you like this project, give it a star on GitHub!</p> ```
+<p> align="center">⭐ If you like this project, give it a star on GitHub!</p> ```
